@@ -13,7 +13,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7bd8199-732b-4074-abd7-c81ea2bd2470" name="Default Changelist" comment="Commit after create new class Animal" />
+    <list default="true" id="c7bd8199-732b-4074-abd7-c81ea2bd2470" name="Default Changelist" comment="Commit main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +92,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit after first class App" />
@@ -108,6 +112,14 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1604851482172" />
+    <state x="136" y="68" key="MergeDialog" timestamp="1604951081905">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="136" y="68" key="MergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1604951081905" />
+    <state x="358" y="191" key="MultipleFileMergeDialog" timestamp="1604951081914">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="358" y="191" key="MultipleFileMergeDialog/0.0.1440.860@0.0.1440.860" timestamp="1604951081914" />
     <state x="221" y="75" key="SettingsEditor" timestamp="1604851266498">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
